@@ -1,0 +1,32 @@
+h1 {
+	font-family: Raleway;
+	margin-left: 1.66%;
+	font-size: 23px;
+	font-weight: 800;
+	text-transform: uppercase;
+	border-bottom: 1px solid #f1f1f1;
+	width: 30%;
+	padding-bottom: 20px;
+	display: inline-block;
+}
+div	{
+	display: block;
+}
+
+img	{
+	width: 30%;
+	float:left;
+	margin: 1.66%;
+}
+footer	{
+	font-size: 0.5em;
+	text-align: end;
+}
+p {
+	font-family: Raleway;
+	display: inline-block;
+	margin-left: 10%;
+	text-transform: uppercase;
+	border-bottom: 1px solid #f1f1f1;
+	padding-bottom: 20px;
+}
